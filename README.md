@@ -1,6 +1,8 @@
 # Gerenciador-Escolar-
 Pensado para professores gerenciar seus alunos da sala de aula de maneira simples e rápida
 
+Você pode baixar o arquivo executavel para wndows sem a nescessidade de baixar os codigos. No lado direito você localizará os releases com o arquivo .exe
+
 Título:
 
 "Manual do Usuário - Gerenciador Escolar"
